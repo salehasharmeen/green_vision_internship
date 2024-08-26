@@ -1,0 +1,8 @@
+age1 = int(input("Enter the first age: "))
+print(age1)
+age2 = int(input("Enter the second age: "))
+print(age2)
+age3 = int(input("Enter the third age: "))
+print(age3)
+largest=max(age1,age2,age3)
+print(f"The largest age is {largest}")
